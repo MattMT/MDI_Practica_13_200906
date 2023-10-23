@@ -20,6 +20,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 13 Implementación de navegación entre Peliculas y Series de TV. |
-| Descripción  | En esta práctica se realizó otra petición al api para poder llamar un listado de series de TV, las cuales forman otro apartado, teniendo así los catalogos de nuestro menú, los cuales durante la práctica se hicieron funcionar. Como medida adicional a la práctica realizada, corregí la mayor parte de los warnings que rersaltaban en la mayoría de los archivos. |
-|  Fecha de Carga | 13/10/23  |
+| Nombre  |  Práctica 13 Informacion de la película título, calificación y descripcion.. |
+| Descripción  | En esta práctica se realizó el widget MediaDetail que muestra información detallada sobre un elemento multimedia, incluyendo su título, póster, calificación y descripción general. Crea una interfaz de usuario visualmente atractiva combinando un fondo de imagen con un efecto de desenfoque y superponiendo los detalles del elemento multimedia. |
+|  Fecha de Carga | 23/10/23  |
